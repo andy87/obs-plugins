@@ -1,7 +1,7 @@
 # obs-plugins
 плагины для OBS
 
-/[url](tree/master/lua)  
+/[url](https://github.com/andy87/obs-plugins/tree/master/lua)  
 скрипты на языке LUA.  
 Имеются:  
  * переводы скриптов
